@@ -1,0 +1,29 @@
+{"emplacement": [
+		{
+			"nombar":bar4,
+			"long":"0.862928",
+			"lat":"48.577431",
+			"photo":"drawable/icbar1.png"
+			
+		},
+		{
+			"nombar":bar3,
+			"long":"0.144071",
+			"lat":"48.395494",
+			"photo":"drawable/icbar2.png"
+			
+		},
+{
+			"nombar":bar2,
+			"long":"1.770047",
+			"lat":"48.424665",
+			"photo":"drawable/icbar3.png"
+			
+		},
+  {
+	"nombar":bar1,
+	"long":"-0.270663",
+	"lat":"48.269504",
+	"photo":"drawable/icbar4.png"
+  }
+] }
